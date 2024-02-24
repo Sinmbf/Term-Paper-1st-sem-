@@ -18,7 +18,7 @@
 Links to the web app icons or image objects
 The preferred URL to launch or open the web app
 The web app configuration data
-Default orientation of the web app
+Default orientation of the web apps
 The option to set the display mode, e.g. full screen
 
 PWAs as a strategic asset in their digital strategy, unlocking new opportunities for growth and innovation in the ever-changing digital ecosystem.
