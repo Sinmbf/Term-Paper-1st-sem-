@@ -1,0 +1,24 @@
+// References
+
+1. Introduction ==> https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+
+2. History ==> https://en.wikipedia.org/wiki/Progressive_web_app#:~:text=In%202015%2C%20designer%20Frances%20Berriman,progressive%20web%20applications%20in%20their
+
+
+// Author 
+
+2. Marcotte, Ethan (25 May 2010). "Responsive Web Design". A List Apart. 
+3. Russell, Alex. "Progressive Web Apps: Escaping Tabs Without Losing Our Soul". 
+4. Evans, Jonny (26 January 2018). "Apple goes back to the future with web apps". 
+5. Ladage, Aaron (17 April 2018). "Progressive Web Apps Are Here and They're Changing Everything". 
+7. "Can I use... Support tables for HTML5, CSS3, etc". caniuse.com.
+6. Evans, Jonny (26 January 2018). "Apple goes back to the future with web apps". Computerworld.
+7. Newman, Jared (2021-01-26). "Firefox just walked away from a key piece of the open web". Fast Company. 
+
+Links to the web app icons or image objects
+The preferred URL to launch or open the web app
+The web app configuration data
+Default orientation of the web app
+The option to set the display mode, e.g. full screen
+
+PWAs as a strategic asset in their digital strategy, unlocking new opportunities for growth and innovation in the ever-changing digital ecosystem.
